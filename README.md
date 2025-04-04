@@ -1,21 +1,27 @@
+# 🎯 Excel Sales Analysis Dashboard - Ferns and Petals
 
+This project provides an **interactive sales analysis dashboard** for **Ferns and Petals**, focusing on key insights derived from sales data.
 
-## **Sales and Finance Analytics using MS Excel**  
+## 📌 Problem Statement
+Ferns and Petals specializes in selling gifts for occasions like **Diwali, Raksha Bandhan, Holi, Birthdays, and Anniversaries**. The dataset contains customer purchases, order details, and product categories.
 
-###  **Project Overview**  
-This project focuses on analyzing sales and financial data using **Microsoft Excel**. By leveraging **DAX**, **ETL methodology**, and **Power Query**, a comprehensive customer performance report was developed. The project provides valuable insights into market performance, sales targets, and profit-loss assessments across different regions and timeframes.
+The goal of this analysis is to help the company improve its sales strategy by answering key business questions.
 
-###  **Key Features**  
-- Developed a **Customer Performance Report** using advanced Excel functions and DAX.  
-- Conducted a detailed comparison between **market performance** and **sales targets**.  
-- Created interactive **Profit and Loss Reports** based on market, fiscal year, and monthly data.  
-- Evaluated key performance indicators (**KPIs**) to monitor business performance.  
-- Recommended effective **customer discount strategies** for enhanced profitability.  
-- Provided insights to facilitate **negotiations with consumers** and identify potential **business expansion opportunities**.
+## 📊 Dashboard Insights
+- **Total Revenue:** ₹3,520,984.00
+- **Avg Order-Delivery Time:** 5.53 days
+- **Monthly Sales Performance:** Sales trends across 2023
+- **Top Revenue-Generating Products:** Cakes, Sweets, Soft Toys, and Rakhi
+- **Customer Spending Behavior:** Avg customer spends ₹3,520.98
+- **Top 10 Cities by Orders:** Bhagalpur, Bhatinda, Haridwar, etc.
+- **Revenue by Occasion & Product Popularity**
 
-###  **Tools Used**  
-- Microsoft Excel  
-- DAX (Data Analysis Expressions)  
-- Power Query  
-- ETL (Extract, Transform, Load)  
+## 🛠 Tools Used
+- **Microsoft Excel**
+- **Pivot Tables, Power Query, Data Validation**
+- **Conditional Formatting, Slicers, Charts**
+
+## 📷 Dashboard Preview
+![Dashboard Screenshot](screenshots/dashboard_preview.png)
+
 
